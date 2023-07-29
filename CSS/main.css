@@ -156,6 +156,30 @@ footer .grupo-2 small {
   margin-left: 25px;
   margin-top: 0;
   margin-bottom: 3px;
+}
+
+/** PAGINA_MISION **/
+main h1 {
+  text-align: center;
+}
+
+main .texto {
+  margin: 3%;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+main .texto p {
+  color: darkblue;
+}
+
+main .texto .Imagen_Mision {
+  width: 100%;
+  height: 300px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -o-object-position: bottom;
+  object-position: bottom;
 } 
 
 /*# sourceMappingURL=main.css.map */

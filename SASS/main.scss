@@ -165,4 +165,21 @@ main {
           }  
       }
 
-      
+/** PAGINA_MISION **/    
+
+main{
+  h1{text-align: center;
+  }
+  .texto{margin: 3%;
+    padding-left: 40px;
+    padding-right: 40px;
+    p{color: darkblue;
+    }
+  .Imagen_Mision{width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: bottom;
+
+  }
+  }
+}
