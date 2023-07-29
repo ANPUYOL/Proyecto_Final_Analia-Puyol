@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANPUYOL/Proyecto_Final_Analia-Puyol.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ANPUYOL/Proyecto_Final_Analia-Puyol.github.io/issues"
+  },
+  "homepage": "https://github.com/ANPUYOL/Proyecto_Final_Analia-Puyol.github.io#readme"
 }
